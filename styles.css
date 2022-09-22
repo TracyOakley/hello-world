@@ -48,6 +48,13 @@ img{
     padding: 0pt;
     border: 5px solid black;
 }
+
+.jsImg {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+
 .upper {
     display: block;
   margin-left: auto;
